@@ -1,0 +1,8 @@
+Aggregate Function:
+SUM, MIN, MAX, COUNT, AVG
+
+Roll up reference:
+https://www.mysqltutorial.org/mysql-rollup/
+
+window functions: Allow us to create aggregates within out detailed row
+Reference: https://dev.mysql.com/doc/refman/8.0/en/window-functions-usage.html
